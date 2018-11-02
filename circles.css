@@ -1,0 +1,17 @@
+canvas {
+	width: 100%;
+	background: black;
+}
+
+body, html {
+	height: 100%;
+	margin: 0;
+}
+
+button {
+	width: 100%;
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background: #bfbfbf;
+}
